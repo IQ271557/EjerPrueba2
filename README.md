@@ -1,2 +1,10 @@
 "Hola" 
-AAAAAA
+AAAAAA"
+Buenas tardes grupo" 
+/n "Buenas tardes grupo" 
+-e "Buenas tardes grupo" 
+ "Buenas tardes grupo" 
+ "Buenas tardes grupo" 
+ "A" 
+ "" 
+ "asd" 
